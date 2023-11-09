@@ -1,0 +1,30 @@
+.outerdiv{
+    height:200px;
+    width:70px;
+    border:2px solid black;
+    background-color: rgb(209, 209, 209);
+}
+#innerdiv1{
+   margin:10px;
+   height: 50px;
+   width: 50px;
+   border:2px solid black;
+   border-radius: 50%;
+   background-color: red;
+}
+#innerdiv2{
+    margin:10px;
+    height: 50px;
+    width: 50px;
+    border:2px solid black;
+    border-radius: 50%;
+    background-color: yellow;
+ }
+ #innerdiv3{
+    margin:10px;
+    height: 50px;
+    width: 50px;
+    border:2px solid black;
+    border-radius: 50%;
+    background-color: green;
+ }
