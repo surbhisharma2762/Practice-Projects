@@ -1,0 +1,36 @@
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    transition: width 2s ease-in 0.5s;
+}
+#box1:hover{
+    width: 300px;
+}
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transform:translate(200px,200px) rotate(90deg) ;
+}
+#box3{
+    width: 100px;
+    height: 100px;
+    transform: skew(20deg);
+    background-color: aquamarine;
+}
+#box4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(185, 222, 35);
+    box-shadow: 2px 2px 5px green;
+}
+#myPic{
+    width: 100px;
+    height: 100px;
+    background: pink;
+    background-size: cover;
+    background-image: url("img/vector-1.jpg");
+    opacity:50%;
+    margin:10px;
+}
